@@ -26,7 +26,7 @@ Data Source - Most of the data has been gathered from https://fred.stlouisfed.or
 * CPI - Consumer Price Index for All Urban Consumers: All Items in U.S. City Average (CPIAUCSL) | FRED | St. Louis Fed (stlouisfed.org)
 * Interest Rates - Federal Funds Effective Rate (DFF) | FRED | St. Louis Fed (stlouisfed.org)
 * Number of new houses supplied - https://fred.stlouisfed.org/series/MSACSR
-* Working Population - Working Age Population: Aged 15-64: All Persons for United States (LFWA64TTUSM647S) | FRED | St. Louis Fed (stlouisfed.org)
+* Working Population - [Working Age Population: Aged 15-64: All Persons for United States (LFWA64TTUSM647S) | FRED | St. Louis Fed (stlouisfed.org)](https://fred.stlouisfed.org/series/LFWA64TTUSM647S)
 * Urban Population - Urban population (% of total population) - United States | Data (worldbank.org)
 * Percentage of population above 65 - https://fred.stlouisfed.org/series/SPPOP65UPTOZSUSA
 * Housing subsidies - Government subsidies: Federal: Housing (L312051A027NBEA) | FRED | St. Louis Fed (stlouisfed.org)
