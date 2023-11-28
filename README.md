@@ -19,15 +19,15 @@ The following variables are chosen for the study-
 
 
 Data Source - Most of the data has been gathered from https://fred.stlouisfed.org/
-* Unemployment Rate -  Unemployment Rate (UNRATE) | FRED | St. Louis Fed (stlouisfed.org)
-* Per Capita GDP - Real gross domestic product per capita (A939RX0Q048SBEA) | FRED | St. Louis Fed (stlouisfed.org)
-* Median Household Income - Real Disposable Personal Income (DSPIC96) | FRED | St. Louis Fed (stlouisfed.org)
-* Construction Prices -  Producer Price Index by Commodity: Special Indexes: Construction Materials (WPUSI012011) | FRED | St. Louis Fed (stlouisfed.org)
-* CPI - Consumer Price Index for All Urban Consumers: All Items in U.S. City Average (CPIAUCSL) | FRED | St. Louis Fed (stlouisfed.org)
-* Interest Rates - Federal Funds Effective Rate (DFF) | FRED | St. Louis Fed (stlouisfed.org)
-* Number of new houses supplied - https://fred.stlouisfed.org/series/MSACSR
+* Unemployment Rate -  [Unemployment Rate (UNRATE) | FRED | St. Louis Fed (stlouisfed.org)](https://fred.stlouisfed.org/series/UNRATE)
+* Per Capita GDP - [Real gross domestic product per capita (A939RX0Q048SBEA) | FRED | St. Louis Fed (stlouisfed.org)](https://fred.stlouisfed.org/series/A939RX0Q048SBEA)
+* Median Household Income - [Real Disposable Personal Income (DSPIC96) | FRED | St. Louis Fed (stlouisfed.org)](https://fred.stlouisfed.org/series/DSPIC96)
+* Construction Prices -  [https://fred.stlouisfed.org/series/WPUSI012011](https://fred.stlouisfed.org/series/WPUSI012011)
+* CPI - [https://fred.stlouisfed.org/series/CPIAUCSL](https://fred.stlouisfed.org/series/CPIAUCSL)
+* Interest Rates - https://fred.stlouisfed.org/series/DFF
+* Number of new houses supplied - [https://fred.stlouisfed.org/series/MSACSR](https://fred.stlouisfed.org/series/MSACSR)
 * Working Population - [Working Age Population: Aged 15-64: All Persons for United States (LFWA64TTUSM647S) | FRED | St. Louis Fed (stlouisfed.org)](https://fred.stlouisfed.org/series/LFWA64TTUSM647S)
-* Urban Population - Urban population (% of total population) - United States | Data (worldbank.org)
+* Urban Population - https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?end=2021&locations=US&start=2001
 * Percentage of population above 65 - https://fred.stlouisfed.org/series/SPPOP65UPTOZSUSA
-* Housing subsidies - Government subsidies: Federal: Housing (L312051A027NBEA) | FRED | St. Louis Fed (stlouisfed.org)
-* Number of Households - Total Households (TTLHH) | FRED | St. Louis Fed (stlouisfed.org)
+* Housing subsidies - https://fred.stlouisfed.org/series/L312051A027NBEA
+* Number of Households - https://fred.stlouisfed.org/series/TTLHH
