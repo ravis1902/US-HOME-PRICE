@@ -5,17 +5,18 @@
 The following variables are chosen for the study-
 
 * Unemployment Rate -  This column depits that number of unemployed people in the US. 
-* Per Capita GDP - 
-* Median Household Income
-* Construction Prices
-* CPI
-* Interest Rates
-* Number of new houses supplied
-* Working Population
-* Urban Population
-* Percentage of population above 65
-* Housing subsidies
-* Number of Households
+* Per Capita GDP - It is an economic metric that breaks down a country's economic output per person.
+* Median Household Income - This is a important factor that comes under the economic factors affecting housing market is related to economic growth. If
+  average income for people in US rises then demand for house also rises which leads to increase in home price
+* Construction Prices - This is an index for Construction price for houses in US over the last 20 years.
+* CPI - The Consumer Price Index (CPI) is a measure that examines the average change in prices paid by consumers for goods and services over the last 20 years
+* Interest Rates - Interest rates influence the monthly payment value for mortgages. A high-interest rate would increase mortgage costs and reduce the demand for a house to be purchased
+* Number of new houses supplied - 
+* Working Population - 
+* Urban Population - p
+* Percentage of population above 65 - 
+* Housing subsidies - 
+* Number of Households - 
 
 
 Data Source - Most of the data has been gathered from https://fred.stlouisfed.org/
@@ -37,11 +38,12 @@ Data Source - Most of the data has been gathered from https://fred.stlouisfed.or
 * Housing subsidies - https://fred.stlouisfed.org/series/L312051A027NBEA
 * Number of Households - https://fred.stlouisfed.org/series/TTLHH
 
-This one variable Per Capita GDP has quartely data and five other variables like (Urban Population, Old Population, Income, Subsidy, Number of Household) has yearly.
+This one variable Per Capita GDP has quartely data and five other variables like (Urban Population, Old Population, Income, Subsidy and Number of Household) has yearly.
 Rest other variables has monthly data for last 20 years.
 
-The data has been prpared by merging this variable on the basis of dates. The five columns has been combined on year which I find the most appropriate method.
-The Nan values in the Per Capita GDP imputed through Interpolation method
+The data has been prepared by merging this variable on the basis of dates. The Nan values in the Per Capita GDP imputed through Interpolation method.
+
+
 
 
 
