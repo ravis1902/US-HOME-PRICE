@@ -55,9 +55,15 @@ The data has been prepared by merging this variable on the basis of dates. The N
 
 - Checking null values and imputing those Nan values with mean of the column
 - Using Correlation matrix to check the strength of the each predictors with the target variable
-- ![image](https://github.com/ravis1902/US-HOME-PRICE/assets/121948844/0296e675-1329-4b78-95e5-de741694a073)
+  (Unemployment is the only column that is negatively correlated with target also it is tue if unemployment increases. People won't be able to afford houses and demand will decrease
+  which can lead to decline in House Prices. CPI and Income showing strong positive correlation with House Price as with increase in both the factors the House Price will also hike in U.S.
+  but some pair of predictors are showing strong correlation with each other like subsidy & CPI, per capita GDP & CPI so Ihave drop such columns as it will impact the model accuracy
+  ![image](https://github.com/ravis1902/US-HOME-PRICE/assets/121948844/0296e675-1329-4b78-95e5-de741694a073)
 
-
+- After scaling the data I have split it into train and test set and perform 2 different ML algorithm
+  1. Linear Regression
+     the accuracy comes out to be 81 % from this algorithm. The coefficient of variables tells
+     
 
 
 
