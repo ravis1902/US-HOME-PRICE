@@ -43,6 +43,10 @@ Rest other variables has monthly data for last 20 years.
 
 The data has been prepared by merging this variable on the basis of dates. The Nan values in the Per Capita GDP imputed through Interpolation method.
 
+# EDA
+![download](https://github.com/ravis1902/US-HOME-PRICE/assets/121948844/2f1f3b78-7b29-4a4e-bf0b-3addb609316c)
+
+
 
 
 
