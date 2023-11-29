@@ -62,9 +62,18 @@ The data has been prepared by merging this variable on the basis of dates. The N
 
 
 - After scaling the data I have split it into train and test set and perform 2 different ML algorithm
-  1. Linear Regression
-     the accuracy comes out to be 81 % from this algorithm. The coefficient of variables tells
+  1. In Linear Regression the accuracy comes out to be 81 % from this algorithm. The coefficient of variables are not much of help as the Consumer Price Index is effect not showing good coefficient as with 
+     increase in every unit of CPI House Price must also increase but indirectly due to other factors like interest rates, Inflation, increase in supply and demand.
+     It's important to note that the relationship between the CPI and house prices is not always straightforward, and local market conditions, demographic trends, and other factors can play a significant role. 
      
+
+  3. I approach other algorithm that is Decision tree Regression and with hat my accuracy comes out to be 90%.
+
+     As per my view there should be some other factors included like:
+     * Marriage Rate - (People tend to buy homes after they get married. So, it might have some effect. No data could be found)
+     * Tax Rate - (Not suffiecient records)
+     * Location - The house which located with low accessibility of services and ammenities like Highway, School, Hospital, shopping   complex have cheaper rate(No such data available for this factor)
+     * House Size - Data was only available from 2016 to 2023
 
 
 
