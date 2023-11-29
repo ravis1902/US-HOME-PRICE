@@ -11,12 +11,13 @@ The following variables are chosen for the study-
 * Construction Prices - This is an index for Construction price for houses in US over the last 20 years.
 * CPI - The Consumer Price Index (CPI) is a measure that examines the average change in prices paid by consumers for goods and services over the last 20 years
 * Interest Rates - Interest rates influence the monthly payment value for mortgages. A high-interest rate would increase mortgage costs and reduce the demand for a house to be purchased
-* Number of new houses supplied - 
-* Working Population - 
-* Urban Population - p
-* Percentage of population above 65 - 
-* Housing subsidies - 
-* Number of Households - 
+* Number of new houses supplied - The months' supply is the ratio of new houses for sale to new houses sold. This statistic provides an indication of the size of the new for-sale inventory in relation to the 
+  number of new houses currently being sold. 
+* Working Population - This the population of people working in U.S.
+* Urban Population - he population inhabiting areas that have a greater population density than rural areas in U.S.
+* Percentage of population above 65 - Population ages 65 and above as a percentage of the total population, which counts all residents regardless of legal status or citizenship--except for refugees 
+* Housing subsidies - the policies given by goverment to make affordability of houses easier
+* Number of Households - Household is an occupied housing unit. Householder is a person in whose name the housing unit is rented or owned. This person must be at least 15 years old.
 
 
 Data Source - Most of the data has been gathered from https://fred.stlouisfed.org/
@@ -67,7 +68,9 @@ The data has been prepared by merging this variable on the basis of dates. The N
      It's important to note that the relationship between the CPI and house prices is not always straightforward, and local market conditions, demographic trends, and other factors can play a significant role. 
      
 
-  3. I approach other algorithm that is Decision tree Regression and with hat my accuracy comes out to be 90%.
+  2. I approach other algorithm that is Decision tree Regression and with hat my accuracy comes out to be 90%.
+ 
+     My conclusion is that Decision tree much better approach as compared to Linear Regression
 
      As per my view there should be some other factors included like:
      * Marriage Rate - (People tend to buy homes after they get married. So, it might have some effect. No data could be found)
